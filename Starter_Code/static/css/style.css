@@ -8,3 +8,22 @@ body,
 html {
   height: 100%;
 }
+
+/* CSS for Legend */
+.info.legend {
+  background: white;
+  padding: 6px 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.info.legend div {
+  margin-bottom: 4px;
+}
+
+.info.legend i {
+  width: 20px;
+  height: 20px;
+  float: left;
+  margin-right: 8px;
+}
